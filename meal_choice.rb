@@ -11,7 +11,7 @@ def dinner(dinner_food = "salmon")
 end
 
 def snacks(food = "cheetos")
-  "Anytime is a good time to eat #{food}."
+  "Any time, is the right time for #{food}!"
 end
 
 puts breakfast("pancakes")
