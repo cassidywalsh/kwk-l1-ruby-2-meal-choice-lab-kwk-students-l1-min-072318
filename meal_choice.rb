@@ -20,3 +20,5 @@ puts dinner("steak")
 puts breakfast
 puts lunch
 puts dinner
+puts snacks("swedish fish")
+puts snacks 
