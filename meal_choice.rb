@@ -10,7 +10,7 @@ def dinner(dinner_food = "salmon")
   "Evening is the best time for #{dinner_food}!"
 end
 
-def snacks(food = "cheetos")
+def snacks(food = "Cheetos")
   "Any time, is the right time for #{food}!"
 end
 
